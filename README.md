@@ -1,9 +1,14 @@
 # Rushabh Panbude  <a href="https://www.linkedin.com/in/rushabh-panbude/"><img align="right" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /></a><a href="https://twitter.com/rushabhpanbude"><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
-- 👋 Hi, I’m @rushabhpanbude
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Latest Frameworks
-- 💞️ I’m looking to collaborate on Open Source
+
+
+- 👋 Hi, I’m @rushabhpanbude <img align="right" src="https://github-readme-stats.vercel.app/api?username=rushabhpanbude" atl="rushabhpanbude" />
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning Latest Frameworks 
+- 💞️ I’m looking to collaborate on Open Source 
+- Proficient in C++, JAVA, PYTHON, JAVASCRIPT, and SQL.
+- Ability to translate business requirements into technical solutions.
+
 
 ### Tools and Technology :
 
