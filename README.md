@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m @rushabhpanbude <img align="right" src="https://github-readme-stats.vercel.app/api?username=rushabhpanbude" atl="rushabhpanbude" />
+- 👋 Hi, I’m @rushabhpanbude <img align="right" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="300">
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Latest Frameworks 
 - 💞️ I’m looking to collaborate on Open Source 
@@ -17,10 +17,13 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" alt="babel" width="35" height="35"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="35" height="35"/>
 <img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="java" width="35" height="35"/>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="react" width="35" height="35"/>
