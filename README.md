@@ -38,15 +38,21 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/>
 <img align="left"src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br/> <br/> <br/> <br/> 
 <div>
-
+<br/> <br/> <br/> <br/> 
+  
+  
+<div>
+  
 ### My GitHub Stats :
 
 ![Rushabh Panbude's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushabhpanbude&show_icons=true&hide_border=true&theme=tokyonight&border_radius=30)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushabhpanbude&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&border_radius=30)
 <br/>
 
+  
+  </div>  
+  
 <!---
 rushabhpanbude/rushabhpanbude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
