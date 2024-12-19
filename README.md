@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m @rushabhpanbude <img align="right" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="300">
+- 👋 Hi, I’m @rushabhpanbude 
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Latest Frameworks 
 - 💞️ I’m looking to collaborate on Open Source 
